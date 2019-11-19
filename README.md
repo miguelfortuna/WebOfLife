@@ -11,3 +11,7 @@ In order to execute Jupyter notebooks containing code writen in R, the following
 
 ### R script:
 The code is also available as an R script <a href="https://github.com/miguelfortuna/WebOfLife/blob/master/WebOfLife.r" target="_blank">(WebOfLife.r)</a>.
+
+
+
+[![DOI](https://zenodo.org/badge/119046336.svg)](https://zenodo.org/badge/latestdoi/119046336)
